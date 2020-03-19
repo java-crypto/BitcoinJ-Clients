@@ -2,13 +2,13 @@ package mywallet;
 
 /*
  * Herkunft/Origin: http://javacrypto.bplaced.net/
- * Programmierer/Programmer: Michael Fehr
- * Copyright/Copyright: Michael Fehr
+ * Programmierer/Programmer: TaeGeun Moon
+ * Copyright/Copyright: TaeGeun Moon
  * Lizenttext/Licence: verschiedene Lizenzen / several licenses
- * e.g. Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0
+ * see LICENCE
  * getestet mit/tested with: Java Runtime Environment 11.0.5 x64
  * verwendete IDE/used IDE: intelliJ IDEA 2019.3.1
- * Datum/Date (dd.mm.jjjj): 18.03.2020
+ * Datum/Date (dd.mm.jjjj): 19.03.2020
  * Programm/Program: BitcoinJ Client LunaTKWallet
  * Funktion: zeigt die Erstellung eines funtionierenden Bitcoin Clients
  * Function: show the creating of a working bitcoin client
